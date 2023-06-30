@@ -5,7 +5,7 @@
 
 //prompt è un metodo per far visualizzare all'utente una finestra dove vengono richiesti degli input
 
-//inserimento Dati utente, chilometri
+//inserimento Dati utente, chilometri e date
 const user = prompt("Nome e Cognome");
 //parseInt serve per convertire una stringa in numero
 const ageUser = parseInt(prompt("Quanti anni hai?"));
